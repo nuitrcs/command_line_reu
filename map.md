@@ -88,6 +88,7 @@
 │        │          └── default.md
 │        └── neighborhood
 │            └── default.md
+├── map.md
 ├── README.md
 └── .secret_room
     ├── default.md
