@@ -62,7 +62,11 @@
 #     exit with CTRL+X
 #
 # --> Duplicate/copy and paste the line 'peter piper picked a peck of 
-#     pickeled peppers' by navigating to the line, 
+#     pickeled peppers' by navigating to the line, typing ALT+6, 
+#     navigating to a new line, then typing CTRL+U. Save and quit by
+#     typing CTRL+S and CTRL+X.
+#
+# -->  
 #
 ##########################################################################
 #
