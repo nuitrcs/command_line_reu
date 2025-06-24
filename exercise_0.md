@@ -165,6 +165,7 @@
 #
 # --> How would you get from the ponies to the horses? 
 #
-# --> Do any other exploration you like!
+# --> Do any other exploration you like! Hint: there is hidden treasure 
+#     somewhere!!
 #
 ##########################################################################

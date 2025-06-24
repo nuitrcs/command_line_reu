@@ -65,11 +65,38 @@
 #     pickeled peppers' by navigating to the line, typing ALT+6, 
 #     navigating to a new line, then typing CTRL+U. Save and quit by
 #     typing CTRL+S and CTRL+X.
+#     Alternatively, you can cut and paste the same line by navigating to
+#     the line, typing CTRL+K, then typing CTRL+U. You can type CTRL+U 
+#     repetatively to paste the line multiple times. After trying this
+#     out, save the file with CTRL+S. 
 #
-# -->  
+# --> You can also copy-paste things into nano (from outside sources 
+#     like the internet) by using the usual CTRL+C and CTRL+V 
+#     (CMD+C and CMD+V on Mac). Try this in your file using your favorite
+#     ASCII art from this website: https://www.asciiart.eu/ .
+#
+# --> After pasting your ASCII art from the internet, duplicate it in nano
+#     by cutting (CTRL+K) all of the lines of the art, then pasting 
+#     (CTRL+U) the contents of your cutbuffer (clipboard). For example, 
+#     if my art is 5 lines long, I will CTRL+K 5 times in a row and then 
+#     CTRL+U once. 
 #
 ##########################################################################
 #
 # 3. Search for a word or phrase in your file
 # 
+# Note: you should still be in the directory:
+# <path_to_repo>/command_line_reu/labyrinth/wooded_lane/meadow/neighborhood/<NetID>
 #
+# --> In your file, find the word 'peppers' by typing CTRL+W, 'peppers',
+#     and ENTER. Find the next occurance(s) of that word by repetatively 
+#     typing CTRL+W and ENTER. If you'd like to change the serch term, type
+#     CTRL+W, type a new search term, then press ENTER. 
+#
+# --> Toggle on/off line numbers by typing ALT+N or ALT+# (ESC+# on Mac
+#     and tap don't hold ESC). 
+#
+# --> Test out whatever else you'd like in nano using the provided 
+#     shortcuts. 
+#
+##########################################################################
