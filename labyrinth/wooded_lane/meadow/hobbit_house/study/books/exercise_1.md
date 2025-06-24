@@ -29,4 +29,7 @@
 # mv
 # rm
 # touch
-# 
+# man
+# awk
+# sed
+
