@@ -8,12 +8,8 @@
 # Now it is time for YOU to teach! Mwahahahaahhah!
 #
 # Use 'man' to find something new and interesting about one of the
-# commands we've already covered, and either come up and demonstrate
-# it to the group or walk me (Matthew) through it and I'll show what
-# you've found.
-#
-# I'd like not too much overlap, so we'll go through these together
-# and assign commands:
+# commands we've already covered.  Once you've found one, we'll talk about
+# it and do a demonstration.
 #
 # cd
 # ls
